@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Metegol</string>
+    <string name="btnRanking">Ranking</string>
+    <string name="btnInformar">Informar</string>
+    <string name="btnGanadores">Ganadores</string>
+    <string name="btnABM">ABM</string>
+    <string name="txtpj">PJ</string>
+    <string name="txtpp">PP</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtPG">PG</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="txtequipo1">Equipo 1</string>
+    <string name="txtEquipo2">Equipo 2</string>
+    <string name="txtGanador">Ganador</string>
+    <string-array name="equipos">
+        <item>Equipo 1</item>
+        <item>Equipo 2</item>
+    </string-array>
+</resources>
