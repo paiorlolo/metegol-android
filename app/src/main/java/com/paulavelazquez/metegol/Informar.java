@@ -27,6 +27,7 @@ public class Informar extends AppCompatActivity {
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 
 
+
         spn1A.setAdapter(adapter);
         spn2A.setAdapter(adapter);
         spn1B.setAdapter(adapter);
